@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPrefApp</string>
+
+    <!-- Login & password -->
+    <string name="user_name">Thomas</string>
+    <string name="user_password">thomas123</string>
+
+    <!-- preferences key -->
+    <string name="login_preferences">com.ikheiry.sharedprefapp_login_preferences</string>
+    <string name="login_status_preferences">com.ikheiry.sharedprefapp_login_status_preferences</string>
+</resources>
